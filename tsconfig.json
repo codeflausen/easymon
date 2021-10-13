@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "outDir": "./app"
+    },
+    "include": [
+        "src/*"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
